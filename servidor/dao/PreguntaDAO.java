@@ -1,7 +1,7 @@
 package dao;
 
-import dominio.Pregunta;
-import servidor.conexion.Conexion;
+import modelo.Pregunta;
+import conexion.Conexion;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
